@@ -1,5 +1,7 @@
 ## Laravel 4 Package with Sentry 2 - Version 2.0
 
+[![Build Status](https://travis-ci.org/wearebase/sentry-manager-laravel-package.png?branch=master)](https://travis-ci.org/wearebase/sentry-manager-laravel-package)
+
 This is a fork of [L4withSentry](https://github.com/rydurham/L4withSentry) to bring the project inside a package.
 
 This is a demo of [Sentry 2](https://github.com/cartalyst/sentry) integrated with [Laravel 4](https://github.com/laravel/laravel/tree/develop) and [Bootstrap 3.0](http://getbootstrap.com).
